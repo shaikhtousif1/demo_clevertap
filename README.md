@@ -1,6 +1,6 @@
 # AWS Cloud Infrastructure Design
 
-## 📘 Section 1: Infrastructure Design, Cost Optimization & IaC
+## Section 1: Infrastructure Design, Cost Optimization & IaC
 
 ### Problem Statement
 Your company runs a customer engagement platform that serves millions of users. The platform experiences sudden traffic spikes during promotional campaigns and requires a highly available, scalable, and cost-efficient cloud infrastructure.
