@@ -51,7 +51,7 @@ Thumbs.db
 *.bak
 
 # Test output
-testresult.md
+#testresult.md
 
 # Dependency directories
 node_modules/

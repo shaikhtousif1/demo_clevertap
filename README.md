@@ -80,7 +80,7 @@ infra/
 - **IAM Roles**
   - Scoped access for EKS, CI/CD, RDS
 - **S3**
-  - Created as reusable modules or external resources
+  - Created as reusable modules or external resources[Not created in terraform]
 
 ---
 
