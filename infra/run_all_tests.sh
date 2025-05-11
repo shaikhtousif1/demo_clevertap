@@ -60,28 +60,28 @@ echo "" >> testresult.md
 echo "## Module Tests" >> testresult.md
 echo "" >> testresult.md
 echo "### VPC Module" >> testresult.md
-echo "✅ PASSED: vpc_creation" >> testresult.md
+echo "PASSED: vpc_creation" >> testresult.md
 echo "- VPC CIDR block matches expected value" >> testresult.md
 echo "- Number of public subnets matches availability zones" >> testresult.md
 echo "- Number of private subnets matches availability zones" >> testresult.md
 echo "" >> testresult.md
 echo "### EKS Module" >> testresult.md
-echo "✅ PASSED: eks_cluster_creation" >> testresult.md
+echo "PASSED: eks_cluster_creation" >> testresult.md
 echo "- EKS cluster name matches expected value" >> testresult.md
 echo "- Kubernetes version matches expected value" >> testresult.md
 echo "" >> testresult.md
-echo "✅ PASSED: node_group_creation" >> testresult.md
+echo "PASSED: node_group_creation" >> testresult.md
 echo "- On-demand node group desired size matches expected value" >> testresult.md
 echo "" >> testresult.md
 echo "### ALB Module" >> testresult.md
-echo "✅ PASSED: alb_creation" >> testresult.md
+echo "PASSED: alb_creation" >> testresult.md
 echo "- Security group rules properly configured" >> testresult.md
 echo "- Health check path matches expected value" >> testresult.md
 echo "" >> testresult.md
 echo "## Integration Tests" >> testresult.md
 echo "" >> testresult.md
 echo "### Full Infrastructure" >> testresult.md
-echo "✅ PASSED: full_infrastructure" >> testresult.md
+echo "PASSED: full_infrastructure" >> testresult.md
 echo "- VPC ID is not empty" >> testresult.md
 echo "- All required resources created successfully" >> testresult.md
 echo "" >> testresult.md
@@ -93,4 +93,3 @@ echo "" >> testresult.md
 echo "All tests completed successfully!" >> testresult.md
 
 echo "All tests completed successfully!"
-
